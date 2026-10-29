@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.author           = { '李卫友' => 'https://github.com/lwy121810' }
   s.source           = { :git => 'https://github.com/xyhuangjia/WYCoding.git', :tag => s.version.to_s }
 
-  s.platform         = :ios, '13.0'
+  s.platform         = :ios, '15.0'
   s.requires_arc     = true
   s.frameworks       = 'Foundation'
 
